@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/userinfo.aspx" hash="655967331" filehash="f7c4a42c27c38c7e" flags="110000" assembly="App_Web_tjgn0ams" type="ASP.userinfo_aspx">
+    <filedeps>
+        <filedep name="/site.Master" />
+        <filedep name="/userinfo.aspx" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Payment.aspx" hash="655967331" filehash="4f428f56a525209e" flags="110000" assembly="App_Web_tuwes4fs" type="ASP.payment_aspx">
+    <filedeps>
+        <filedep name="/Payment.aspx" />
+        <filedep name="/site.Master" />
+    </filedeps>
+</preserve>

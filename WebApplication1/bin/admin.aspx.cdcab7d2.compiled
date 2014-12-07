@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Admin.aspx" hash="655967331" filehash="779e2360f022a5a9" flags="110000" assembly="App_Web_tuwes4fs" type="ASP.admin_aspx">
+    <filedeps>
+        <filedep name="/Admin.aspx" />
+        <filedep name="/site.Master" />
+    </filedeps>
+</preserve>

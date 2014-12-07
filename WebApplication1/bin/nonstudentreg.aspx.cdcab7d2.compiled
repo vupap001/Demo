@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/NonStudentReg.aspx" hash="655967331" filehash="1bd68bbcf9733b6b" flags="110000" assembly="App_Web_tjgn0ams" type="ASP.nonstudentreg_aspx">
+    <filedeps>
+        <filedep name="/NonStudentReg.aspx" />
+        <filedep name="/site.Master" />
+    </filedeps>
+</preserve>

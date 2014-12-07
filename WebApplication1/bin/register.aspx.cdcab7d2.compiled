@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Register.aspx" hash="655967331" filehash="281b399ead20fde5" flags="110000" assembly="App_Web_tuwes4fs" type="ASP.register_aspx">
+    <filedeps>
+        <filedep name="/Register.aspx" />
+        <filedep name="/site.Master" />
+    </filedeps>
+</preserve>
